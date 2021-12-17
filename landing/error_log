@@ -1,0 +1,1 @@
+[16-Dec-2021 23:52:30 Europe/Copenhagen] PHP Warning:  mysqli::__construct(): (HY000/1044): Access denied for user 'shlimonc_motochini'@'localhost' to database 'shlimonc_motochinii' in /home/shlimonc/public_html/motochini-aps/config.php on line 8
